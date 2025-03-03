@@ -2,7 +2,7 @@
 
 A client-side tool designed to bulk delete X posts based on user-specified keywords, hosted on GitHub Pages.
 
-## Status: Temporarily Abandoned
+## Status: <span style="color:red;"> Temporarily Abandoned </span>
 
 As of March 2025, development has been paused due to limitations in the X API v2 free tier:
 
